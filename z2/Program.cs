@@ -13,7 +13,7 @@ int m = int.Parse(Console.ReadLine()!);
 Console.WriteLine("Введите n");
 int n = int.Parse(Console.ReadLine()!);
 
-int[,] matrix = Create2DArray(m, n, 0, 5);
+int[,] matrix = Create2DArray(m, n, -10, 50);
 Print2DArray(matrix);
 SumOfRowElements(matrix);
 
@@ -28,12 +28,11 @@ void SumOfRowElements(int[,] matrix)
             sum += matrix[i, j];
         }
         array[i] = sum;
-        Console.WriteLine(array[i]);
+        //Console.WriteLine(array[i]);
     }
-    int min = 0;
+    int min = array[0];
     for (int k = 0; k < array.Length - 1; k++)
     {
-        min = array[k];
         if(min > array[k + 1])
         {
             min = array[k + 1];
