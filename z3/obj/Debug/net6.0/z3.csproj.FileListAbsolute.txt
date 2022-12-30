@@ -1,0 +1,15 @@
+D:\1STUDIES\GB\homework_C\seminar8\z3\obj\Debug\net6.0\z3.csproj.AssemblyReference.cache
+D:\1STUDIES\GB\homework_C\seminar8\z3\obj\Debug\net6.0\z3.GeneratedMSBuildEditorConfig.editorconfig
+D:\1STUDIES\GB\homework_C\seminar8\z3\obj\Debug\net6.0\z3.AssemblyInfoInputs.cache
+D:\1STUDIES\GB\homework_C\seminar8\z3\obj\Debug\net6.0\z3.AssemblyInfo.cs
+D:\1STUDIES\GB\homework_C\seminar8\z3\obj\Debug\net6.0\z3.csproj.CoreCompileInputs.cache
+D:\1STUDIES\GB\homework_C\seminar8\z3\bin\Debug\net6.0\z3.exe
+D:\1STUDIES\GB\homework_C\seminar8\z3\bin\Debug\net6.0\z3.deps.json
+D:\1STUDIES\GB\homework_C\seminar8\z3\bin\Debug\net6.0\z3.runtimeconfig.json
+D:\1STUDIES\GB\homework_C\seminar8\z3\bin\Debug\net6.0\z3.dll
+D:\1STUDIES\GB\homework_C\seminar8\z3\bin\Debug\net6.0\z3.pdb
+D:\1STUDIES\GB\homework_C\seminar8\z3\obj\Debug\net6.0\z3.dll
+D:\1STUDIES\GB\homework_C\seminar8\z3\obj\Debug\net6.0\refint\z3.dll
+D:\1STUDIES\GB\homework_C\seminar8\z3\obj\Debug\net6.0\z3.pdb
+D:\1STUDIES\GB\homework_C\seminar8\z3\obj\Debug\net6.0\z3.genruntimeconfig.cache
+D:\1STUDIES\GB\homework_C\seminar8\z3\obj\Debug\net6.0\ref\z3.dll
