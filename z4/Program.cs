@@ -13,12 +13,8 @@ int n = int.Parse(Console.ReadLine()!);
 Console.WriteLine("Введите p");
 int p = int.Parse(Console.ReadLine()!);
 
-
 int[,,] matrix = Create3DArray(m, n, p, 10, 99);
 Print2DArray(matrix);
-
-
-
 
 int[,,] Create3DArray(int m, int n, int p, int min, int max)
 {
@@ -42,7 +38,7 @@ int[,,] Create3DArray(int m, int n, int p, int min, int max)
                     k--;
                 }
             }
-           
+
         }
     }
     return matrix;
@@ -56,7 +52,7 @@ void Print2DArray(int[,,] matrix)
         {
             for (int k = 0; k < matrix.GetLength(2); k++)
             {
-            Console.Write($"{matrix[i, j, k]}({i}, {j}, {k}) ");
+                Console.Write($"{matrix[i, j, k]}({i}, {j}, {k}) ");
             }
         }
         Console.WriteLine();
