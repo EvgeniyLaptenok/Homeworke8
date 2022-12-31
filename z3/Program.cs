@@ -14,22 +14,6 @@ int n = int.Parse(Console.ReadLine()!);
 Console.WriteLine("Введите число столбцов 2-й матрицы: ");
 int p = int.Parse(Console.ReadLine()!);
 
-// int[,] firstMartrix = new int[m, n];
-// CreateArray(firstMartrix);
-// Console.WriteLine($"\nПервая матрица:");
-// WriteArray(firstMartrix);
-
-// int[,] secomdMartrix = new int[n, p];
-// CreateArray(secomdMartrix);
-// Console.WriteLine($"\nВторая матрица:");
-// WriteArray(secomdMartrix);
-
-// int[,] resultMatrix = new int[m,p];
-
-// MultiplyMatrix(firstMartrix, secomdMartrix, resultMatrix);
-// Console.WriteLine($"\nПроизведение первой и второй матриц:");
-// WriteArray(resultMatrix);
-
 int[,] matrixFirst = Create2DArrayFirst(m, n, 0, 10);
 Print2DArrayFirst(matrixFirst);
 Console.WriteLine();
